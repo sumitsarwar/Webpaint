@@ -1,0 +1,40 @@
+@media screen and (max-width:320px) {
+    .ourportfolio h2 {
+        font-size: 25px;
+    }
+
+    .button {
+        font-size: 9px;
+    }
+
+    .button-group .button {
+        margin-top: .4rem;
+    }
+}
+
+
+
+@media screen and (max-width:480px) {
+    .button {
+        font-size: 15px;
+    }
+
+    .banner h2 {
+        font-size: 56px;
+    }
+
+    .banner p {
+        font-size: 25px;
+    }
+    .button-group .button {
+        margin-top: .4rem;
+    }
+}
+
+
+
+@media screen and (max-width:768px) {
+    .sameservice {
+        margin-bottom: 40px;
+    }
+}
